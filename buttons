@@ -23,6 +23,10 @@
   background-color: #1d4ed8;
 }
 
+dire {
+background-color:red;
+}
+
 /* Secondary/Outline Variant */
 .btn-outline {
   background-color: transparent;
