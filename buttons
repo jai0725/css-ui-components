@@ -25,6 +25,7 @@
 
 dire {
 background-color:red;
+color:white;
 }
 
 /* Secondary/Outline Variant */
